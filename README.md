@@ -7,6 +7,6 @@
 ## References
 1. [See Inside CNN](https://github.com/IbrahimSobh/see-inside-cnn)
 
-[embed]https://github.com/devanshikhatsuriya/Visualizing-CNNs/blob/main/COL707_Project_Report.pdf[/embed]
+[Report](COL707_Project_Report.pdf)
 
 Powered by [Embed PDF](https://github.com/pathawks/Embed-PDF)
